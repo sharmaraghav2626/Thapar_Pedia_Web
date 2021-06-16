@@ -1,0 +1,22 @@
+.feed{
+    display: flex;
+    flex-direction: column;
+    flex:0.7;
+}
+.no_post{
+    margin: auto;
+    margin-top: 50px;
+    color: #8b1b1f;
+    background-color: white;
+    width: -webkit-fill-available;
+    text-align: center;
+    border-radius: 10px;
+    justify-content: center;
+}
+
+@media only screen and (max-width: 960px){
+    .feed{
+        flex:0.8;
+        align-content: center;
+    }   
+}

@@ -1,0 +1,42 @@
+.sidebarOptions{
+    display:flex;
+    flex-direction: column;
+}
+.sidebar_option{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    cursor: pointer;
+    flex-direction: column;
+}
+.sidebar_option:hover{
+    background-color: lightgray;
+    border-radius:5px;
+}
+.sidebar_option > img{
+    height: 30px;
+    width: 30px;
+    margin-left: 20px;
+    border-radius: 5px;
+}
+.sidebar_option > p{
+    color:gray;
+    font-weight: 400;
+    margin-left: 10px;
+}
+.sidebar_option > p:hover{
+    color:#8f1f1b;
+    font-weight: 400;
+    margin-left: 10px;
+}
+.MuiCardContent-root {
+    margin: auto;
+}
+.MuiCardContent-root > p{
+    color:#8f1f1b;
+}
+.MuiCardContent-root > .MuiAvatar-root{
+    height: 100px;
+    width: 100px;
+    margin: auto;
+}
