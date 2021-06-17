@@ -23,7 +23,7 @@ And other support libraries
 - Download and extract the code folder
 - Paste your firebase key in components/firebase.js
 - run -> npm i
-- run -> expo start
+- run -> npm start
 
 ### OR DOWNLOAD APK  FROM ##
 
