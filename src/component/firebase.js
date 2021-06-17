@@ -1,7 +1,7 @@
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 import firebase from 'firebase';
 const fireBase=firebase.initializeApp({
-    apiKey: "AIzaSyBnw1AEdCJpTLuWgCp2ViDG8712LjBYEdI",
+    apiKey: "....PASTE YOUR API KEY HERE.......",
     authDomain: "thapar-pedia.firebaseapp.com",
     projectId: "thapar-pedia",
     storageBucket: "thapar-pedia.appspot.com",
