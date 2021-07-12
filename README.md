@@ -35,5 +35,32 @@ https://60cafa650bd5d99162c8f678--thaparpedia.netlify.app
 
 
 
+#PREVIEW
+
+
+# APP PREVIEW
+
+
+<p align="center">
+  <img src="/PREVIEW/home.jpeg" width="200" height="350">
+  <img src="/PREVIEW/1.jpeg" width="200" height="350">
+  <img src="/PREVIEW/2.jpeg" width="200" height="350">
+  <img src="/PREVIEW/4.jpeg" width="200" height="350">
+</p>
+
+
+# WEB PREVIEW
+
+<p align="center">
+  <img src="/PREVIEW/w4.JPG" width="800" height="500">
+  <img src="/PREVIEW/w2.JPG" width="800" height="500">
+  <img src="/PREVIEW/w3.JPG" width="800" height="500">
+  <img src="/PREVIEW/w1.JPG" width="800" height="500">
+</p>
+
+
+
+
+
 CONTACT sharmaraghav2626@gmail.com for any query
 
